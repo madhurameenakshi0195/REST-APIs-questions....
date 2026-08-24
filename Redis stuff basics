@@ -1,1 +1,32 @@
+ONLY BASIC QUESTIONSS/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+
+Why is Redis fast?
+Redis vs PostgreSQL?
+Redis vs Memcached?
+What is caching?
+Cache hit vs cache miss?
+What is cache-aside?
+What is cache invalidation?
+What is TTL?
+What are Redis data types?
+Hash vs Set vs Sorted Set?
+How does Redis handle expiration?
+What happens when Redis runs out of memory?
+What is LRU/LFU?
+How does Redis persistence work?
+RDB vs AOF?
+What happens if Redis crashes?
+What is Redis replication?
+What is Sentinel?
+What is Redis Cluster?
+How does Redis implement rate limiting?
+How do distributed locks work?
+Redis Pub/Sub vs Kafka?
+Redis Streams vs Pub/Sub?
+How do you use Redis with Spring Boot?
+How would you design a distributed cache?
+How would you prevent stale cache data?
+What happens if PostgreSQL succeeds but Redis update fails?
+What happens if Redis goes down?
+How would you cache millions of objects?
